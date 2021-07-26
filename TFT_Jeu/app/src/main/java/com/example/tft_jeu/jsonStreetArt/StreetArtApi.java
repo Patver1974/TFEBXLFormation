@@ -1,4 +1,4 @@
-package com.example.tft_jeu.src.model
+package com.example.tft_jeu.model
 import com.example.tft_jeu.src.models.Geocoordinates;
 import com.google.gson.Gson;
 import com.google.gson.JsonArray;

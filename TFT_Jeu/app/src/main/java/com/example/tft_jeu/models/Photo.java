@@ -1,4 +1,4 @@
-package com.example.tft_jeu.src.models;
+package com.example.tft_jeu.models;
 
 import java.util.HashMap;
 import java.util.Map;
