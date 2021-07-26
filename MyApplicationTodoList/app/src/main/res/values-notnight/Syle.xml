@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Title_exo.Base">
+    <item name="android:textSize">50sp</item>
+    <item name="android:textStyle">italic|bold</item>
+    <item name="android:fontFamily">casuel</item>
+    <item name="android:textColor">#04580F</item>
+
+
+
+</style>
+
+    <style name="Title_exo">Title_exo</style>
+
+
+</resources>

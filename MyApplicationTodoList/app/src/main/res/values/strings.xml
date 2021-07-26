@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My ApplicationTodoList</string>
+    <string name="choice_priority_bas">Basse</string>
+    <string name="choice_priority_moy">Moyenne</string>
+    <string name="choice_priority_high">haute</string>
+
+</resources>
